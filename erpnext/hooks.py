@@ -1,12 +1,12 @@
-app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_name = "SM erpnext"#replaced erpnext with SM erpnext
+app_title = "SM erpnext"#replaced erpnext with SM erpnext
+app_publisher = "© Software Mathematics Pvt. Ltd. "#replaced Frappe Technologies Pvt. Ltd. with © Software Mathematics Pvt. Ltd.
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/Software-Mathematics"#replaced https://github.com/frappe/erpnext with https://github.com/Software-Mathematics
 app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 
 
